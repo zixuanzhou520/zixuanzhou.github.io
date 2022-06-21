@@ -387,7 +387,7 @@ valine_comment:
 # app_key
   leancloud_appkey: jNOUURXvCODPYPn7FTTxNCUX
 # placeholde
-  placeholder: “Just go go"
+  placeholder: "尽情嘲讽吧愚蠢的人类！"
 
 # Disqus
 disqus:
