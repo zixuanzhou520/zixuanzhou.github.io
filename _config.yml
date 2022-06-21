@@ -388,8 +388,6 @@ valine_comment:
   leancloud_appkey: jNOUURXvCODPYPn7FTTxNCUX
 # placeholde
   placeholder: "尽情嘲讽吧愚蠢的人类！"
-# guest info
-  meta: ['nick']
 
 # Disqus
 disqus:
