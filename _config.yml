@@ -388,6 +388,8 @@ valine_comment:
   leancloud_appkey: jNOUURXvCODPYPn7FTTxNCUX
 # placeholde
   placeholder: "尽情嘲讽吧愚蠢的人类！"
+# serverURLs
+  serverURLs: https://aQfj7nY9.api.lncldglobal.com # 把xxxxxxxx替换为自己AppID的前8位字符
 
 # Disqus
 disqus:
