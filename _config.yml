@@ -379,6 +379,16 @@ han: false
 # Duoshuo ShortName
 #duoshuo_shortname:
 
+# Valine
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: aQfj7nY9QSyyQepErP03mi0a-MdYXbMMI
+# app_key
+  leancloud_appkey: jNOUURXvCODPYPn7FTTxNCUX
+# placeholde
+  placeholder: “Just go go"
+
 # Disqus
 disqus:
   enable: false
